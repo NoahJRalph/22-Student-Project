@@ -10,7 +10,7 @@ body {
   font-family: "Goudy Bookletter 1911", sans-serif;
   font-size: 20px;
   background-color: #FDF8F5;
-  color: #4F4846;
+  color: #554b47;
 }
 
 h1,
@@ -33,17 +33,21 @@ a {
   color: #FDF8F5;
 }
 
+b {
+  color: #f1ece8;
+}
+
 header,
 footer {
   height: 60px;
   width: 100%;
   line-height: 60px;
-  background-color: #266150;
+  background-color: #264061;
 }
 
 header {
   position: fixed;
-  border-bottom: 10px solid #DDAF94;
+  border-bottom: 10px solid #da9268;
 }
 
 footer {
